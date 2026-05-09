@@ -17,5 +17,5 @@ Here is a brief work flow:
           The R code is attached here as ES252_Final_Project.R
           
    Step 4: Mapping.
-          From the raster created in step 2, a final map was created in Arc GIS. The geotiff is attached as Final Map for a rye site.tif.
+          From the raster created in step 2, a final map was created in Arc GIS. The geotiff is attached as the final Map for a rye site.tif.
           
