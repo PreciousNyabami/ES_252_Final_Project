@@ -15,6 +15,7 @@ Here is a brief work flow:
   Step 3: Analysis
           The exported csv in combination with field data was used in R to conduct pearson    correlations.
           The R code is attached here as ES252_Final_Project.R
+          
    Step 4: Mapping.
           From the raster created in step 2, a final map was created in Arc GIS. The geotiff is attached as Final Map for a rye site.tif.
           
