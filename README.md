@@ -1,10 +1,10 @@
 This is the code, data files used in the final project of ES 252.
 
-Here is the brief work flow:
+Here is a brief work flow:
 
   Step 1: Data acquisition
           Acquired data on field location , cover crop properties from Dr. Michelle Wander and Dr. Yushu Xia.
-          This is confidential data, hence it is available through proper channels.
+          This is confidential data, hence it is available privately.
           
   Step 2: Preprocessing in google engine.
           I Used field location information and dates to extract data on spectral indices in google           engine.
